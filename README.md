@@ -7,21 +7,20 @@ Kirishitan Ligatures is an open source Latin font that contains abbreviated lett
 Kirishitan Ligaturesはオープンソースの欧文フォントで、キリシタン版に頻出する略字の合字をサポートしています。学術文書や出版物において、これらの合字を簡単に印字できるようにするために作られました。デザインはAdobeの源ノ明朝Regularをベースにしており、類似の太さの明朝体とも合わせやすいような太さにしています（ヒラギノ明朝W3、游明朝Medium、リュウミンRなど）
 
 ## How to use 利用方法
-Install the font in your system and choose it in your application of choice. The font will accept the following input string and display the corresponding ligatures automatically:
+Install the font in your system and choose it in your application of choice. The font will accept the input strings and display the corresponding ligatures automatically (see below image). They are all case-agnostic; [apo] can be [APO], [Apo], [aPo] and so on. Square brackets before and after the letter string are mandatory. This will make searching the text easier, as well as spotting ligature failures (e.g. fonts not applied).
 
-フォントをお使いの機器にインストールし、アプリケーションの文書からフォントを選択します。フォントで以下のようなテキストを入力すると、それに対応する合字記号が表示されます：
+フォントをお使いの機器にインストールし、アプリケーションの文書からフォントを選択します。フォントで以下の画像のようなテキストを入力すると、それに対応する合字記号が表示されます。大文字小文字の区別はありません。[apo]は[APO]、[Apo]、[aPo]など、いずれも受け付けられます。前後の角括弧は必須です。これがあることで検索が楽になりますし、合字が表示されていない場合に発見しやすくなります。
 
 [apo] [apto] [bta] [bto] [de1] [de2] [dpo] [ds] [ds2] [ds3] [ds4] [fo] [jao] [jo] [jo2] [js] [jxo] [ma] [pa] [pe] [po] [pp] [pt] [pta] [pu] [sm] [sma] [xao] [xo] [x1] [x2] [x3]
 
 ![Kirishitan Ligatures Input Strings](https://user-images.githubusercontent.com/5482424/225482458-908dfde1-a734-449a-96f3-5be234917042.png)
 
 ## Notes on the use 使用上の留意点
-- They are all case-agnostic; [apo] can be [APO], [Apo], [aPo] and so on.
-- You need square brackets before and after the letter string. This will make searching the text easier, as well as spotting ligature failures (e.g. fonts not applied).
-- If you want to make them upright in vertical text in office documents (called 縦中横 *tate chu yoko* in Japan), select the corresponding menu item in the application (images below)
+- MS Word does not activate the ligatures by default to keep compatibility with old versions. The image below shows the easiest way to access the ligature options. Anything other than *None* works.
+- MS Wordでは古いバージョンのOfficeとの互換性を保つため、合字が標準状態では適用されません。合字を有効化させる楽な方法は以下の画像の通りです。「なし」以外のいずれかのオプションを選ぶと使用できます。
+![Word Ligature Access](https://user-images.githubusercontent.com/5482424/226122862-99cfb427-3a24-4a3a-b8cb-4f8c1bd1a28a.png)
 
-- 大文字小文字の区別はありません。[apo]は[APO]、[Apo]、[aPo]など、いずれも受け付けられます。
-- 合字の文字列の前後の角括弧は必須です。これがあることで検索が楽になりますし、合字が表示されていない場合に発見しやすくなります。
+- If you want to make them upright in vertical text in office documents (called 縦中横 *tate chu yoko* in Japan), select the corresponding menu item in the application (images below)
 - Office系のアプリケーションで縦書きで正立表示させたい場合（縦中横）、アプリケーション内で当該のメニュー項目を選択します。
 
 Microsoft Word
