@@ -26,7 +26,6 @@ Install the font in your system and choose it in your application of choice. The
 Microsoft Word
 ![縦中横 Word](https://user-images.githubusercontent.com/5482424/225483554-adfdb744-3ae0-49a1-9553-bfe32035d7e6.png)
 
-
 In Apple Pages, the rotation option is in the context menu or Edit menu.
 
 Apple Pagesでは、回転したいテキストを選択し、コンテキストメニューまたは編集メニューから選択します。
@@ -38,6 +37,12 @@ Apple Pagesでは、回転したいテキストを選択し、コンテキスト
 The basic Latin portion uses Source Han Serif which was designed by Frank Grießhammer of Adobe. The ligatures were designed by Toshi Omagari.
 
 源ノ明朝から流用した欧文はAdobeのFrank Grießhammerの作です。Kirishitan Ligaturesの合字は大曲都市の作です。
+
+## Technical Notes 技術
+
+The source file was created using GlyphsApp version 3, a mac-only font editor. The final OTF font contains ccmp, rlig, and liga OpenType features containing the same ligature code, intended to be activated as automatically possible.
+
+ソースファイルはMac用のフォントエディタであるGlyphsAppバージョン3で作られました。出力されたOTFフォントは合字機能をなるべく自動的に発動させるため、ccmp、rlig、ligaフィーチャーに同じ合字機能のコードを繰り返しています。
 
 ## License ライセンス
 This font is distributed under the SIL Open Font License version 1.1.
