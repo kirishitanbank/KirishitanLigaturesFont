@@ -4,7 +4,7 @@
 ## Description 概要
 Kirishitan Ligatures is an open source Latin font that contains abbreviated letter ligatures used in Kirishitan Ban print books. It is intended to type the ligatures easily in academic documents and publications. The design is based on Adobe’s Source Han Sans Regular’s Latin, and intended to be used in regular weights of Mincho fonts such as Hiragino Mincho W3, Yu Mincho Medium, and Ryumin R.
 
-Kirishitan Ligaturesはオープンソースの欧文フォントで、キリシタン版に頻出する略字の合字をサポートしています。学術文書や出版物において、これらの合字を簡単に印字できるようにするために作られました。デザインはAdobeの源ノ明朝Regularをベースにしており、類似の太さの明朝体とも合わせやすいような太さにしています（ヒラギノ明朝W3、游明朝Medium、リュウミンRなど）
+Kirishitan Ligaturesはオープンソースの欧文フォントで、キリシタン版に頻出する略字の合字をサポートしています。学術文書や出版物において、これらの合字を簡単に印字できるようにするために作られました。デザインはAdobeの源ノ明朝Regularをベースにしており、類似の太さの明朝体とも合わせやすいような太さにしています（ヒラギノ明朝W3、游明朝Medium、リュウミンRなど）。
 
 ## How to use 利用方法
 Install the font in your system and choose it in your application of choice. The font will accept the input strings and display the corresponding ligatures automatically (see below image). They are all case-agnostic; [apo] can be [APO], [Apo], [aPo] and so on. Square brackets before and after the letter string are mandatory. This will make searching the text easier, as well as spotting ligature failures (e.g. fonts not applied).
@@ -33,6 +33,11 @@ Apple Pagesでは、回転したいテキストを選択し、コンテキスト
 
 ![縦中横 Pages 1](https://user-images.githubusercontent.com/5482424/225484133-5794d9ef-4ba9-4f25-80dd-2664f5eae811.png)![縦中横 Pages 2](https://user-images.githubusercontent.com/5482424/225484143-742bdf8c-5dd7-43a1-96a1-21c714cdd740.png)
 
+
+## Credit クレジット
+The basic Latin portion uses Source Han Serif which was designed by Frank Grießhammer of Adobe. The ligatures were designed by Toshi Omagari.
+
+源ノ明朝から流用した欧文はAdobeのFrank Grießhammerの作です。Kirishitan Ligaturesの合字は大曲都市の作です。
 
 ## License ライセンス
 This font is distributed under the SIL Open Font License version 1.1.
