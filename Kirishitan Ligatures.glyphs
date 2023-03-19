@@ -1,7 +1,7 @@
 {
 .appVersion = "3180";
 DisplayStrings = (
-"/A_P_O.rlig/A_P_T_O.rlig/B_T_A.rlig/B_T_O.rlig/D_E_one.rlig/D_E_two.rlig/D_P_O.rlig/D_S.rlig/D_S_two.rlig \012/D_S_three.rlig/D_S_four.rlig/F_O.rlig/J_A_O.rlig/A_P_T_O.rlig/J_O.rlig/J_O_two.rlig/J_S.rlig/J_X_O.rlig \012/M_A.rlig/P_A.rlig/P_E.rlig/P_O.rlig/P_P.rlig/P_T.rlig/P_T_A.rlig/P_U.rlig \012/S_M.rlig/S_M_A.rlig/X_A_O.rlig/X_one.rlig/X_two.rlig/X_three.rlig/X_O.rlig \012/_smart.Ap/_smart.J/_smart.a/_smart.e/_smart.longs/_smart.m/_smart.o/_smart.p/_smart.s/_smart.u/_smart.x/_smart.s.001",
+"/A_P_O.rlig/A_P_T_O.rlig/B_T_A.rlig/B_T_O.rlig/D_E_one.rlig/D_E_two.rlig/D_P_O.rlig/D_S_two.rlig \012/D_S_three.rlig/D_S_four.rlig/F_O.rlig/J_A_O.rlig/A_P_T_O.rlig/J_O.rlig/J_O_two.rlig/J_S.rlig/J_X_O.rlig \012/M_A.rlig/P_A.rlig/P_E.rlig/P_O.rlig/P_P.rlig/P_T.rlig/P_T_A.rlig/P_U.rlig \012/S_M.rlig/S_M_A.rlig/X_A_O.rlig/X_one.rlig/X_two.rlig/X_three.rlig/X_O.rlig \012/_smart.Ap/_smart.J/_smart.a/_smart.e/_smart.longs/_smart.m/_smart.o/_smart.p/_smart.s/_smart.u/_smart.x/_smart.s.001",
 "/_smart.Ap/_smart.J/_smart.a/_smart.e/_smart.longs/_smart.m/_smart.o/_smart.p/_smart.s/_smart.u/_smart.x/_smart.s.001"
 );
 copyright = "Copyright © 2023 Toshi Omagari for the ligatures portion. The original Copyright string for Source Han Serif: © Copyright © 2017 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'.";
@@ -145,7 +145,7 @@ code = "feature fwid;\012feature vrt2;\012";
 name = aalt;
 },
 {
-code = "@A = [A a];\012@B = [B b];\012@D = [D d];\012@E = [E e];\012@F = [F f];\012@J = [J j];\012@M = [M m];\012@O = [O o];\012@P = [P p];\012@S = [S s];\012@T = [T t];\012@U = [U u];\012@X = [X x];\012lookup ccmp_latn_h {\012	lookupflag IgnoreMarks;\012	sub bracketleft @A @P @O bracketright by A_P_O.rlig;\012	sub bracketleft @A @P @T @O bracketright by A_P_T_O.rlig;\012	sub bracketleft @B @T @A bracketright by B_T_A.rlig;\012	sub bracketleft @B @T @O bracketright by B_T_O.rlig;\012	sub bracketleft @D @E one bracketright by D_E_one.rlig;\012	sub bracketleft @D @E two bracketright by D_E_two.rlig;\012	sub bracketleft @D @P @O bracketright by D_P_O.rlig;\012	sub bracketleft @D @S bracketright by D_S.rlig;\012	sub bracketleft @D @S two bracketright by D_S_two.rlig;\012	sub bracketleft @D @S three bracketright by D_S_three.rlig;\012	sub bracketleft @D @S four bracketright by D_S_four.rlig;\012	sub bracketleft @F @O bracketright by F_O.rlig;\012	sub bracketleft @J @A @O bracketright by J_A_O.rlig;\012	sub bracketleft @J @O bracketright by J_O.rlig;\012	sub bracketleft @J @O two bracketright by J_O_two.rlig;\012	sub bracketleft @J @S bracketright by J_S.rlig;\012	sub bracketleft @J @X @O bracketright by J_X_O.rlig;\012	sub bracketleft @M @A bracketright by M_A.rlig;\012	sub bracketleft @P @A bracketright by P_A.rlig;\012	sub bracketleft @P @E bracketright by P_E.rlig;\012	sub bracketleft @P @O bracketright by P_O.rlig;\012	sub bracketleft @P @P bracketright by P_P.rlig;\012	sub bracketleft @P @T bracketright by P_T.rlig;\012	sub bracketleft @P @T @A bracketright by P_T_A.rlig;\012	sub bracketleft @P @U bracketright by P_U.rlig;\012	sub bracketleft @S @M bracketright by S_M.rlig;\012	sub bracketleft @S @M @A bracketright by S_M_A.rlig;\012	sub bracketleft @X @A @O bracketright by X_A_O.rlig;\012	sub bracketleft @X @O bracketright by X_O.rlig;\012	sub bracketleft @X one bracketright by X_one.rlig;\012	sub bracketleft @X two bracketright by X_two.rlig;\012	sub bracketleft @X three bracketright by X_three.rlig;\012} ccmp_latn_h;";
+code = "@A = [A a];\012@B = [B b];\012@D = [D d];\012@E = [E e];\012@F = [F f];\012@J = [J j];\012@M = [M m];\012@O = [O o];\012@P = [P p];\012@S = [S s];\012@T = [T t];\012@U = [U u];\012@X = [X x];\012lookup ccmp_latn_h {\012	lookupflag IgnoreMarks;\012	sub bracketleft @A @P @O bracketright by A_P_O.rlig;\012	sub bracketleft @A @P @T @O bracketright by A_P_T_O.rlig;\012	sub bracketleft @B @T @A bracketright by B_T_A.rlig;\012	sub bracketleft @B @T @O bracketright by B_T_O.rlig;\012	sub bracketleft @D @E one bracketright by D_E_one.rlig;\012	sub bracketleft @D @E two bracketright by D_E_two.rlig;\012	sub bracketleft @D @P @O bracketright by D_P_O.rlig;\012	sub bracketleft @D @S one bracketright by D_S_one.rlig;\012	sub bracketleft @D @S two bracketright by D_S_two.rlig;\012	sub bracketleft @D @S three bracketright by D_S_three.rlig;\012	sub bracketleft @D @S four bracketright by D_S_four.rlig;\012	sub bracketleft @F @O bracketright by F_O.rlig;\012	sub bracketleft @J @A @O bracketright by J_A_O.rlig;\012	sub bracketleft @J @O bracketright by J_O.rlig;\012	sub bracketleft @J @O two bracketright by J_O_two.rlig;\012	sub bracketleft @J @S bracketright by J_S.rlig;\012	sub bracketleft @J @X @O bracketright by J_X_O.rlig;\012	sub bracketleft @M @A bracketright by M_A.rlig;\012	sub bracketleft @P @A bracketright by P_A.rlig;\012	sub bracketleft @P @E bracketright by P_E.rlig;\012	sub bracketleft @P @O bracketright by P_O.rlig;\012	sub bracketleft @P @P bracketright by P_P.rlig;\012	sub bracketleft @P @T bracketright by P_T.rlig;\012	sub bracketleft @P @T @A bracketright by P_T_A.rlig;\012	sub bracketleft @P @U bracketright by P_U.rlig;\012	sub bracketleft @S @M bracketright by S_M.rlig;\012	sub bracketleft @S @M @A bracketright by S_M_A.rlig;\012	sub bracketleft @X @A @O bracketright by X_A_O.rlig;\012	sub bracketleft @X @O bracketright by X_O.rlig;\012	sub bracketleft @X one bracketright by X_one.rlig;\012	sub bracketleft @X two bracketright by X_two.rlig;\012	sub bracketleft @X three bracketright by X_three.rlig;\012} ccmp_latn_h;\012";
 name = ccmp;
 },
 {
@@ -159,11 +159,11 @@ disabled = 1;
 name = vrt2;
 },
 {
-code = "#@A = [A a];\012#@B = [B b];\012#@D = [D d];\012#@E = [E e];\012#@F = [F f];\012#@J = [J j];\012#@M = [M m];\012#@O = [O o];\012#@P = [P p];\012#@S = [S s];\012#@T = [T t];\012#@U = [U u];\012#@X = [X x];\012lookup rlig_latn_h {\012	lookupflag IgnoreMarks;\012	sub bracketleft @A @P @O bracketright by A_P_O.rlig;\012	sub bracketleft @A @P @T @O bracketright by A_P_T_O.rlig;\012	sub bracketleft @B @T @A bracketright by B_T_A.rlig;\012	sub bracketleft @B @T @O bracketright by B_T_O.rlig;\012	sub bracketleft @D @E one bracketright by D_E_one.rlig;\012	sub bracketleft @D @E two bracketright by D_E_two.rlig;\012	sub bracketleft @D @P @O bracketright by D_P_O.rlig;\012	sub bracketleft @D @S bracketright by D_S.rlig;\012	sub bracketleft @D @S two bracketright by D_S_two.rlig;\012	sub bracketleft @D @S three bracketright by D_S_three.rlig;\012	sub bracketleft @D @S four bracketright by D_S_four.rlig;\012	sub bracketleft @F @O bracketright by F_O.rlig;\012	sub bracketleft @J @A @O bracketright by J_A_O.rlig;\012	sub bracketleft @J @O bracketright by J_O.rlig;\012	sub bracketleft @J @O two bracketright by J_O_two.rlig;\012	sub bracketleft @J @S bracketright by J_S.rlig;\012	sub bracketleft @J @X @O bracketright by J_X_O.rlig;\012	sub bracketleft @M @A bracketright by M_A.rlig;\012	sub bracketleft @P @A bracketright by P_A.rlig;\012	sub bracketleft @P @E bracketright by P_E.rlig;\012	sub bracketleft @P @O bracketright by P_O.rlig;\012	sub bracketleft @P @P bracketright by P_P.rlig;\012	sub bracketleft @P @T bracketright by P_T.rlig;\012	sub bracketleft @P @T @A bracketright by P_T_A.rlig;\012	sub bracketleft @P @U bracketright by P_U.rlig;\012	sub bracketleft @S @M bracketright by S_M.rlig;\012	sub bracketleft @S @M @A bracketright by S_M_A.rlig;\012	sub bracketleft @X @A @O bracketright by X_A_O.rlig;\012	sub bracketleft @X @O bracketright by X_O.rlig;\012	sub bracketleft @X one bracketright by X_one.rlig;\012	sub bracketleft @X two bracketright by X_two.rlig;\012	sub bracketleft @X three bracketright by X_three.rlig;\012} rlig_latn_h;\012\012#@A.rotat = [A.rotat a.rotat];\012#@B.rotat = [B.rotat b.rotat];\012#@D.rotat = [D.rotat d.rotat];\012#@E.rotat = [E.rotat e.rotat];\012#@F.rotat = [F.rotat f.rotat];\012#@J.rotat = [J.rotat j.rotat];\012#@M.rotat = [M.rotat m.rotat];\012#@O.rotat = [O.rotat o.rotat];\012#@P.rotat = [P.rotat p.rotat];\012#@S.rotat = [S.rotat s.rotat];\012#@T.rotat = [T.rotat t.rotat];\012#@U.rotat = [U.rotat u.rotat];\012#@X.rotat = [X.rotat x.rotat];\012#lookup rlig_latn_v {\012#	lookupflag IgnoreMarks;\012#	sub @A.rotat @P.rotat @O.rotat by A_P_O.rotat.rlig;\012#	sub @A.rotat @P.rotat @T.rotat @O.rotat by A_P_T_O.rotat.rlig;\012#	sub @B.rotat @T.rotat @A.rotat by B_T_A.rotat.rlig;\012#	sub @B.rotat @T.rotat @O.rotat by B_T_O.rotat.rlig;\012#	sub @D.rotat @E.rotat one.rotat by D_E_one.rotat.rlig;\012#	sub @D.rotat @E.rotat two.rotat by D_E_two.rotat.rlig;\012#	sub @D.rotat @P.rotat @O.rotat by D_P_O.rotat.rlig;\012#	sub @D.rotat @S.rotat by D_S.rotat.rlig;\012#	sub @D.rotat @S.rotat two.rotat by D_S_two.rotat.rlig;\012#	sub @D.rotat @S.rotat three.rotat by D_S_three.rotat.rlig;\012#	sub @D.rotat @S.rotat four.rotat by D_S_four.rotat.rlig;\012#	sub @F.rotat @O.rotat by F_O.rotat.rlig;\012#	sub @J.rotat @A.rotat @O.rotat by J_A_O.rotat.rlig;\012#	sub @J.rotat @O.rotat by J_O.rotat.rlig;\012#	sub @J.rotat @O.rotat two.rotat by J_O_two.rotat.rlig;\012#	sub @J.rotat @S.rotat by J_S.rotat.rlig;\012#	sub @J.rotat @X.rotat @O.rotat by J_X_O.rotat.rlig;\012#	sub @M.rotat @A.rotat by M_A.rotat.rlig;\012#	sub @P.rotat @A.rotat by P_A.rotat.rlig;\012#	sub @P.rotat @E.rotat by P_E.rotat.rlig;\012#	sub @P.rotat @O.rotat by P_O.rotat.rlig;\012#	sub @P.rotat @P.rotat by P_P.rotat.rlig;\012#	sub @P.rotat @T.rotat by P_T.rotat.rlig;\012#	sub @P.rotat @T.rotat @A.rotat by P_T_A.rotat.rlig;\012#	sub @P.rotat @U.rotat by P_U.rotat.rlig;\012#	sub @S.rotat @M.rotat by S_M.rotat.rlig;\012#	sub @S.rotat @M.rotat @A.rotat by S_M_A.rotat.rlig;\012#	sub @X.rotat @A.rotat @O.rotat by X_A_O.rotat.rlig;\012#	sub @X.rotat @O.rotat by X_O.rotat.rlig;\012#	sub @X.rotat one.rotat by X_one.rotat.rlig;\012#	sub @X.rotat two.rotat by X_two.rotat.rlig;\012#	sub @X.rotat three.rotat by X_three.rotat.rlig;\012#} rlig_latn_v;\012\012";
+code = "#@A = [A a];\012#@B = [B b];\012#@D = [D d];\012#@E = [E e];\012#@F = [F f];\012#@J = [J j];\012#@M = [M m];\012#@O = [O o];\012#@P = [P p];\012#@S = [S s];\012#@T = [T t];\012#@U = [U u];\012#@X = [X x];\012lookup rlig_latn_h {\012	lookupflag IgnoreMarks;\012	sub bracketleft @A @P @O bracketright by A_P_O.rlig;\012	sub bracketleft @A @P @T @O bracketright by A_P_T_O.rlig;\012	sub bracketleft @B @T @A bracketright by B_T_A.rlig;\012	sub bracketleft @B @T @O bracketright by B_T_O.rlig;\012	sub bracketleft @D @E one bracketright by D_E_one.rlig;\012	sub bracketleft @D @E two bracketright by D_E_two.rlig;\012	sub bracketleft @D @P @O bracketright by D_P_O.rlig;\012	sub bracketleft @D @S one bracketright by D_S_one.rlig;\012	sub bracketleft @D @S two bracketright by D_S_two.rlig;\012	sub bracketleft @D @S three bracketright by D_S_three.rlig;\012	sub bracketleft @D @S four bracketright by D_S_four.rlig;\012	sub bracketleft @F @O bracketright by F_O.rlig;\012	sub bracketleft @J @A @O bracketright by J_A_O.rlig;\012	sub bracketleft @J @O bracketright by J_O.rlig;\012	sub bracketleft @J @O two bracketright by J_O_two.rlig;\012	sub bracketleft @J @S bracketright by J_S.rlig;\012	sub bracketleft @J @X @O bracketright by J_X_O.rlig;\012	sub bracketleft @M @A bracketright by M_A.rlig;\012	sub bracketleft @P @A bracketright by P_A.rlig;\012	sub bracketleft @P @E bracketright by P_E.rlig;\012	sub bracketleft @P @O bracketright by P_O.rlig;\012	sub bracketleft @P @P bracketright by P_P.rlig;\012	sub bracketleft @P @T bracketright by P_T.rlig;\012	sub bracketleft @P @T @A bracketright by P_T_A.rlig;\012	sub bracketleft @P @U bracketright by P_U.rlig;\012	sub bracketleft @S @M bracketright by S_M.rlig;\012	sub bracketleft @S @M @A bracketright by S_M_A.rlig;\012	sub bracketleft @X @A @O bracketright by X_A_O.rlig;\012	sub bracketleft @X @O bracketright by X_O.rlig;\012	sub bracketleft @X one bracketright by X_one.rlig;\012	sub bracketleft @X two bracketright by X_two.rlig;\012	sub bracketleft @X three bracketright by X_three.rlig;\012} rlig_latn_h;\012\012#@A.rotat = [A.rotat a.rotat];\012#@B.rotat = [B.rotat b.rotat];\012#@D.rotat = [D.rotat d.rotat];\012#@E.rotat = [E.rotat e.rotat];\012#@F.rotat = [F.rotat f.rotat];\012#@J.rotat = [J.rotat j.rotat];\012#@M.rotat = [M.rotat m.rotat];\012#@O.rotat = [O.rotat o.rotat];\012#@P.rotat = [P.rotat p.rotat];\012#@S.rotat = [S.rotat s.rotat];\012#@T.rotat = [T.rotat t.rotat];\012#@U.rotat = [U.rotat u.rotat];\012#@X.rotat = [X.rotat x.rotat];\012#lookup rlig_latn_v {\012#	lookupflag IgnoreMarks;\012#	sub @A.rotat @P.rotat @O.rotat by A_P_O.rotat.rlig;\012#	sub @A.rotat @P.rotat @T.rotat @O.rotat by A_P_T_O.rotat.rlig;\012#	sub @B.rotat @T.rotat @A.rotat by B_T_A.rotat.rlig;\012#	sub @B.rotat @T.rotat @O.rotat by B_T_O.rotat.rlig;\012#	sub @D.rotat @E.rotat one.rotat by D_E_one.rotat.rlig;\012#	sub @D.rotat @E.rotat two.rotat by D_E_two.rotat.rlig;\012#	sub @D.rotat @P.rotat @O.rotat by D_P_O.rotat.rlig;\012#	sub @D.rotat @S.rotat by D_S.rotat.rlig;\012#	sub @D.rotat @S.rotat two.rotat by D_S_two.rotat.rlig;\012#	sub @D.rotat @S.rotat three.rotat by D_S_three.rotat.rlig;\012#	sub @D.rotat @S.rotat four.rotat by D_S_four.rotat.rlig;\012#	sub @F.rotat @O.rotat by F_O.rotat.rlig;\012#	sub @J.rotat @A.rotat @O.rotat by J_A_O.rotat.rlig;\012#	sub @J.rotat @O.rotat by J_O.rotat.rlig;\012#	sub @J.rotat @O.rotat two.rotat by J_O_two.rotat.rlig;\012#	sub @J.rotat @S.rotat by J_S.rotat.rlig;\012#	sub @J.rotat @X.rotat @O.rotat by J_X_O.rotat.rlig;\012#	sub @M.rotat @A.rotat by M_A.rotat.rlig;\012#	sub @P.rotat @A.rotat by P_A.rotat.rlig;\012#	sub @P.rotat @E.rotat by P_E.rotat.rlig;\012#	sub @P.rotat @O.rotat by P_O.rotat.rlig;\012#	sub @P.rotat @P.rotat by P_P.rotat.rlig;\012#	sub @P.rotat @T.rotat by P_T.rotat.rlig;\012#	sub @P.rotat @T.rotat @A.rotat by P_T_A.rotat.rlig;\012#	sub @P.rotat @U.rotat by P_U.rotat.rlig;\012#	sub @S.rotat @M.rotat by S_M.rotat.rlig;\012#	sub @S.rotat @M.rotat @A.rotat by S_M_A.rotat.rlig;\012#	sub @X.rotat @A.rotat @O.rotat by X_A_O.rotat.rlig;\012#	sub @X.rotat @O.rotat by X_O.rotat.rlig;\012#	sub @X.rotat one.rotat by X_one.rotat.rlig;\012#	sub @X.rotat two.rotat by X_two.rotat.rlig;\012#	sub @X.rotat three.rotat by X_three.rotat.rlig;\012#} rlig_latn_v;\012\012";
 name = rlig;
 },
 {
-code = "lookup liga_latn_h {\012	lookupflag IgnoreMarks;\012	sub bracketleft @A @P @O bracketright by A_P_O.rlig;\012	sub bracketleft @A @P @T @O bracketright by A_P_T_O.rlig;\012	sub bracketleft @B @T @A bracketright by B_T_A.rlig;\012	sub bracketleft @B @T @O bracketright by B_T_O.rlig;\012	sub bracketleft @D @E one bracketright by D_E_one.rlig;\012	sub bracketleft @D @E two bracketright by D_E_two.rlig;\012	sub bracketleft @D @P @O bracketright by D_P_O.rlig;\012	sub bracketleft @D @S bracketright by D_S.rlig;\012	sub bracketleft @D @S two bracketright by D_S_two.rlig;\012	sub bracketleft @D @S three bracketright by D_S_three.rlig;\012	sub bracketleft @D @S four bracketright by D_S_four.rlig;\012	sub bracketleft @F @O bracketright by F_O.rlig;\012	sub bracketleft @J @A @O bracketright by J_A_O.rlig;\012	sub bracketleft @J @O bracketright by J_O.rlig;\012	sub bracketleft @J @O two bracketright by J_O_two.rlig;\012	sub bracketleft @J @S bracketright by J_S.rlig;\012	sub bracketleft @J @X @O bracketright by J_X_O.rlig;\012	sub bracketleft @M @A bracketright by M_A.rlig;\012	sub bracketleft @P @A bracketright by P_A.rlig;\012	sub bracketleft @P @E bracketright by P_E.rlig;\012	sub bracketleft @P @O bracketright by P_O.rlig;\012	sub bracketleft @P @P bracketright by P_P.rlig;\012	sub bracketleft @P @T bracketright by P_T.rlig;\012	sub bracketleft @P @T @A bracketright by P_T_A.rlig;\012	sub bracketleft @P @U bracketright by P_U.rlig;\012	sub bracketleft @S @M bracketright by S_M.rlig;\012	sub bracketleft @S @M @A bracketright by S_M_A.rlig;\012	sub bracketleft @X @A @O bracketright by X_A_O.rlig;\012	sub bracketleft @X @O bracketright by X_O.rlig;\012	sub bracketleft @X one bracketright by X_one.rlig;\012	sub bracketleft @X two bracketright by X_two.rlig;\012	sub bracketleft @X three bracketright by X_three.rlig;\012} liga_latn_h;";
+code = "lookup liga_latn_h {\012	lookupflag IgnoreMarks;\012	sub bracketleft @A @P @O bracketright by A_P_O.rlig;\012	sub bracketleft @A @P @T @O bracketright by A_P_T_O.rlig;\012	sub bracketleft @B @T @A bracketright by B_T_A.rlig;\012	sub bracketleft @B @T @O bracketright by B_T_O.rlig;\012	sub bracketleft @D @E one bracketright by D_E_one.rlig;\012	sub bracketleft @D @E two bracketright by D_E_two.rlig;\012	sub bracketleft @D @P @O bracketright by D_P_O.rlig;\012	sub bracketleft @D @S one bracketright by D_S_one.rlig;\012	sub bracketleft @D @S two bracketright by D_S_two.rlig;\012	sub bracketleft @D @S three bracketright by D_S_three.rlig;\012	sub bracketleft @D @S four bracketright by D_S_four.rlig;\012	sub bracketleft @F @O bracketright by F_O.rlig;\012	sub bracketleft @J @A @O bracketright by J_A_O.rlig;\012	sub bracketleft @J @O bracketright by J_O.rlig;\012	sub bracketleft @J @O two bracketright by J_O_two.rlig;\012	sub bracketleft @J @S bracketright by J_S.rlig;\012	sub bracketleft @J @X @O bracketright by J_X_O.rlig;\012	sub bracketleft @M @A bracketright by M_A.rlig;\012	sub bracketleft @P @A bracketright by P_A.rlig;\012	sub bracketleft @P @E bracketright by P_E.rlig;\012	sub bracketleft @P @O bracketright by P_O.rlig;\012	sub bracketleft @P @P bracketright by P_P.rlig;\012	sub bracketleft @P @T bracketright by P_T.rlig;\012	sub bracketleft @P @T @A bracketright by P_T_A.rlig;\012	sub bracketleft @P @U bracketright by P_U.rlig;\012	sub bracketleft @S @M bracketright by S_M.rlig;\012	sub bracketleft @S @M @A bracketright by S_M_A.rlig;\012	sub bracketleft @X @A @O bracketright by X_A_O.rlig;\012	sub bracketleft @X @O bracketright by X_O.rlig;\012	sub bracketleft @X one bracketright by X_one.rlig;\012	sub bracketleft @X two bracketright by X_two.rlig;\012	sub bracketleft @X three bracketright by X_three.rlig;\012} liga_latn_h;\012";
 name = liga;
 }
 );
@@ -10381,8 +10381,8 @@ width = 1000;
 },
 {
 color = 4;
-glyphname = D_S.rlig;
-lastChange = "2023-03-13 17:23:29 +0000";
+glyphname = D_S_one.rlig;
+lastChange = "2023-03-19 22:02:00 +0000";
 layers = (
 {
 background = {
@@ -15394,8 +15394,9 @@ width = 1000;
 },
 {
 color = 5;
+export = 0;
 glyphname = A_P_O.rotat.rlig;
-lastChange = "2023-03-08 10:09:04 +0000";
+lastChange = "2023-03-19 22:02:13 +0000";
 layers = (
 {
 components = (
@@ -15414,8 +15415,9 @@ rightMetricsKey = A_P_O.rlig;
 },
 {
 color = 5;
+export = 0;
 glyphname = A_P_T_O.rotat.rlig;
-lastChange = "2023-03-08 10:09:04 +0000";
+lastChange = "2023-03-19 22:02:13 +0000";
 layers = (
 {
 components = (
@@ -15434,8 +15436,9 @@ rightMetricsKey = A_P_T_O.rlig;
 },
 {
 color = 5;
+export = 0;
 glyphname = B_T_A.rotat.rlig;
-lastChange = "2023-03-08 10:09:04 +0000";
+lastChange = "2023-03-19 22:02:13 +0000";
 layers = (
 {
 components = (
@@ -15454,8 +15457,9 @@ rightMetricsKey = B_T_A.rlig;
 },
 {
 color = 5;
+export = 0;
 glyphname = B_T_O.rotat.rlig;
-lastChange = "2023-03-08 10:09:04 +0000";
+lastChange = "2023-03-19 22:02:13 +0000";
 layers = (
 {
 components = (
@@ -15474,8 +15478,9 @@ rightMetricsKey = B_T_O.rlig;
 },
 {
 color = 5;
+export = 0;
 glyphname = D_E_one.rotat.rlig;
-lastChange = "2023-03-10 17:09:03 +0000";
+lastChange = "2023-03-19 22:02:13 +0000";
 layers = (
 {
 components = (
@@ -15494,8 +15499,9 @@ rightMetricsKey = D_E_9.rlig;
 },
 {
 color = 5;
+export = 0;
 glyphname = D_E_two.rotat.rlig;
-lastChange = "2023-03-10 17:09:03 +0000";
+lastChange = "2023-03-19 22:02:13 +0000";
 layers = (
 {
 components = (
@@ -15514,8 +15520,9 @@ rightMetricsKey = D_E_9.rlig;
 },
 {
 color = 5;
+export = 0;
 glyphname = D_P_O.rotat.rlig;
-lastChange = "2023-03-08 10:09:04 +0000";
+lastChange = "2023-03-19 22:02:13 +0000";
 layers = (
 {
 components = (
@@ -15534,14 +15541,15 @@ rightMetricsKey = D_P_O.rlig;
 },
 {
 color = 5;
-glyphname = D_S.rotat.rlig;
-lastChange = "2023-03-08 10:09:04 +0000";
+export = 0;
+glyphname = D_S_one.rotat.rlig;
+lastChange = "2023-03-19 22:02:13 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
-name = D_S.rlig;
+name = D_S_one.rlig;
 }
 );
 layerId = "AODEWCWT-RYM3-6S2H-YGKD-BAMV0KWXFSSX";
@@ -15554,8 +15562,9 @@ rightMetricsKey = D_S.rlig;
 },
 {
 color = 5;
+export = 0;
 glyphname = D_S_two.rotat.rlig;
-lastChange = "2023-03-10 17:09:08 +0000";
+lastChange = "2023-03-19 22:02:13 +0000";
 layers = (
 {
 components = (
@@ -15574,8 +15583,9 @@ rightMetricsKey = "=D_S_two.rlig";
 },
 {
 color = 5;
+export = 0;
 glyphname = D_S_three.rotat.rlig;
-lastChange = "2023-03-10 17:09:08 +0000";
+lastChange = "2023-03-19 22:02:13 +0000";
 layers = (
 {
 components = (
@@ -15594,8 +15604,9 @@ rightMetricsKey = "=D_S_three.rlig";
 },
 {
 color = 5;
+export = 0;
 glyphname = D_S_four.rotat.rlig;
-lastChange = "2023-03-10 17:09:08 +0000";
+lastChange = "2023-03-19 22:02:13 +0000";
 layers = (
 {
 components = (
@@ -15614,8 +15625,9 @@ rightMetricsKey = "=D_S_four.rlig";
 },
 {
 color = 5;
+export = 0;
 glyphname = F_O.rotat.rlig;
-lastChange = "2023-03-08 10:09:04 +0000";
+lastChange = "2023-03-19 22:02:13 +0000";
 layers = (
 {
 components = (
@@ -15634,8 +15646,9 @@ rightMetricsKey = F_O.rlig;
 },
 {
 color = 5;
+export = 0;
 glyphname = J_A_O.rotat.rlig;
-lastChange = "2023-03-08 10:09:04 +0000";
+lastChange = "2023-03-19 22:02:13 +0000";
 layers = (
 {
 components = (
@@ -15654,8 +15667,9 @@ rightMetricsKey = J_A_O.rlig;
 },
 {
 color = 5;
+export = 0;
 glyphname = J_O.rotat.rlig;
-lastChange = "2023-03-08 10:09:04 +0000";
+lastChange = "2023-03-19 22:02:13 +0000";
 layers = (
 {
 components = (
@@ -15674,8 +15688,9 @@ rightMetricsKey = J_O.rlig;
 },
 {
 color = 5;
+export = 0;
 glyphname = J_O_two.rotat.rlig;
-lastChange = "2023-03-10 17:09:08 +0000";
+lastChange = "2023-03-19 22:02:13 +0000";
 layers = (
 {
 components = (
@@ -15694,8 +15709,9 @@ rightMetricsKey = "=J_O_two.rlig";
 },
 {
 color = 5;
+export = 0;
 glyphname = J_S.rotat.rlig;
-lastChange = "2023-03-08 22:45:15 +0000";
+lastChange = "2023-03-19 22:02:13 +0000";
 layers = (
 {
 components = (
@@ -15712,8 +15728,9 @@ width = 1000;
 },
 {
 color = 5;
+export = 0;
 glyphname = J_X_O.rotat.rlig;
-lastChange = "2023-03-08 10:09:04 +0000";
+lastChange = "2023-03-19 22:02:13 +0000";
 layers = (
 {
 components = (
@@ -15732,8 +15749,9 @@ rightMetricsKey = J_X_O.rlig;
 },
 {
 color = 5;
+export = 0;
 glyphname = M_A.rotat.rlig;
-lastChange = "2023-03-08 10:09:04 +0000";
+lastChange = "2023-03-19 22:02:13 +0000";
 layers = (
 {
 components = (
@@ -15752,8 +15770,9 @@ rightMetricsKey = M_A.rlig;
 },
 {
 color = 5;
+export = 0;
 glyphname = P_A.rotat.rlig;
-lastChange = "2023-03-08 10:09:04 +0000";
+lastChange = "2023-03-19 22:02:13 +0000";
 layers = (
 {
 components = (
@@ -15772,8 +15791,9 @@ rightMetricsKey = P_A.rlig;
 },
 {
 color = 5;
+export = 0;
 glyphname = P_E.rotat.rlig;
-lastChange = "2023-03-08 10:09:04 +0000";
+lastChange = "2023-03-19 22:02:13 +0000";
 layers = (
 {
 components = (
@@ -15792,8 +15812,9 @@ rightMetricsKey = P_E.rlig;
 },
 {
 color = 5;
+export = 0;
 glyphname = P_O.rotat.rlig;
-lastChange = "2023-03-08 10:09:04 +0000";
+lastChange = "2023-03-19 22:02:13 +0000";
 layers = (
 {
 components = (
@@ -15812,8 +15833,9 @@ rightMetricsKey = P_O.rlig;
 },
 {
 color = 5;
+export = 0;
 glyphname = P_P.rotat.rlig;
-lastChange = "2023-03-08 10:09:04 +0000";
+lastChange = "2023-03-19 22:02:13 +0000";
 layers = (
 {
 components = (
@@ -15832,8 +15854,9 @@ rightMetricsKey = P_P.rlig;
 },
 {
 color = 5;
+export = 0;
 glyphname = P_T.rotat.rlig;
-lastChange = "2023-03-08 10:09:04 +0000";
+lastChange = "2023-03-19 22:02:13 +0000";
 layers = (
 {
 components = (
@@ -15852,8 +15875,9 @@ rightMetricsKey = P_T.rlig;
 },
 {
 color = 5;
+export = 0;
 glyphname = P_T_A.rotat.rlig;
-lastChange = "2023-03-08 10:09:04 +0000";
+lastChange = "2023-03-19 22:02:13 +0000";
 layers = (
 {
 components = (
@@ -15872,8 +15896,9 @@ rightMetricsKey = P_T_A.rlig;
 },
 {
 color = 5;
+export = 0;
 glyphname = P_U.rotat.rlig;
-lastChange = "2023-03-08 10:09:04 +0000";
+lastChange = "2023-03-19 22:02:13 +0000";
 layers = (
 {
 components = (
@@ -15892,8 +15917,9 @@ rightMetricsKey = P_U.rlig;
 },
 {
 color = 5;
+export = 0;
 glyphname = S_M.rotat.rlig;
-lastChange = "2023-03-08 10:09:04 +0000";
+lastChange = "2023-03-19 22:02:13 +0000";
 layers = (
 {
 components = (
@@ -15912,8 +15938,9 @@ rightMetricsKey = S_M.rlig;
 },
 {
 color = 5;
+export = 0;
 glyphname = S_M_A.rotat.rlig;
-lastChange = "2023-03-08 10:09:04 +0000";
+lastChange = "2023-03-19 22:02:13 +0000";
 layers = (
 {
 components = (
@@ -15932,8 +15959,9 @@ rightMetricsKey = S_M_A.rlig;
 },
 {
 color = 5;
+export = 0;
 glyphname = X_A_O.rotat.rlig;
-lastChange = "2023-03-08 10:09:04 +0000";
+lastChange = "2023-03-19 22:02:13 +0000";
 layers = (
 {
 components = (
@@ -15952,8 +15980,9 @@ rightMetricsKey = X_A_O.rlig;
 },
 {
 color = 5;
+export = 0;
 glyphname = X_one.rotat.rlig;
-lastChange = "2023-03-10 17:09:08 +0000";
+lastChange = "2023-03-19 22:02:13 +0000";
 layers = (
 {
 components = (
@@ -15972,8 +16001,9 @@ rightMetricsKey = "=X_one.rlig";
 },
 {
 color = 5;
+export = 0;
 glyphname = X_two.rotat.rlig;
-lastChange = "2023-03-10 17:09:08 +0000";
+lastChange = "2023-03-19 22:02:13 +0000";
 layers = (
 {
 components = (
@@ -15992,8 +16022,9 @@ rightMetricsKey = "=X_two.rlig";
 },
 {
 color = 5;
+export = 0;
 glyphname = X_three.rotat.rlig;
-lastChange = "2023-03-10 17:09:03 +0000";
+lastChange = "2023-03-19 22:02:13 +0000";
 layers = (
 {
 components = (
@@ -16010,8 +16041,9 @@ width = 1000;
 },
 {
 color = 5;
+export = 0;
 glyphname = X_O.rotat.rlig;
-lastChange = "2023-03-08 22:45:28 +0000";
+lastChange = "2023-03-19 22:02:13 +0000";
 layers = (
 {
 components = (
@@ -42547,6 +42579,17 @@ width = 1000;
 );
 },
 {
+glyphname = "space-han";
+lastChange = "2019-12-26 02:40:52 +0000";
+layers = (
+{
+layerId = "AODEWCWT-RYM3-6S2H-YGKD-BAMV0KWXFSSX";
+width = 1000;
+}
+);
+unicode = 3000;
+},
+{
 color = 3;
 glyphname = space.rotat;
 lastChange = "2019-12-26 07:57:04 +0000";
@@ -42557,17 +42600,6 @@ vertWidth = 258;
 width = 1000;
 }
 );
-},
-{
-glyphname = "space-han";
-lastChange = "2019-12-26 02:40:52 +0000";
-layers = (
-{
-layerId = "AODEWCWT-RYM3-6S2H-YGKD-BAMV0KWXFSSX";
-width = 1000;
-}
-);
-unicode = 3000;
 },
 {
 export = 0;
