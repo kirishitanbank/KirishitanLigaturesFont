@@ -34,9 +34,9 @@ Apple Pagesでは、回転したいテキストを選択し、コンテキスト
 
 
 ## Credit クレジット
-The basic Latin portion uses Source Han Serif which was designed by Frank Grießhammer of Adobe. The ligatures were designed by Toshi Omagari.
+The basic Latin portion uses Source Han Serif which was designed by Frank Grießhammer of Adobe. The ligatures were designed by Toshi Omagari. The ligatures were created for “Kirishitan-ban in the Digital Age: A Study of the Opportunities and Limitations of Applying Digital Methods to Kirishitan-ban” a research project headed by James Harry Morris and partially funded by a DNP Foundation for Cultural Promotion Graphic Culture Research Grant.
 
-源ノ明朝から流用した欧文はAdobeのFrank Grießhammerの作です。Kirishitan Ligaturesの合字は大曲都市の作です。
+源ノ明朝から流用した欧文はAdobeのFrank Grießhammerの作です。Kirishitan Ligaturesの合字は大曲都市の作です。Kirishitan Ligaturesは、モリス・ジェームズ・ハリーを代表とする『デジタル時代におけるキリシタン版: デジタル手法による「キリシタン版」探索の可能性と限界に関する考察』という研究プロジェクトのために作成されたものです。そのプロジェクトの一部はDNP文化振興財団のグラフィック文化に関する学術研究助成により実施されたものです。
 
 ## Technical Notes 技術
 
