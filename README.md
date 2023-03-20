@@ -11,9 +11,10 @@ Install the font in your system and choose it in your application of choice. The
 
 フォントをお使いの機器にインストールし、アプリケーションの文書からフォントを選択します。フォントで以下の画像のようなテキストを入力すると、それに対応する合字記号が表示されます。大文字小文字の区別はありません。[apo]は[APO]、[Apo]、[aPo]など、いずれも受け付けられます。前後の角括弧は必須です。これがあることで検索が楽になりますし、合字が表示されていない場合に発見しやすくなります。
 
-[apo] [apto] [bta] [bto] [de1] [de2] [dpo] [ds1] [ds2] [ds3] [ds4] [fo] [jao] [jo] [jo2] [js] [jxo] [ma] [pa] [pe] [po] [pp] [pt] [pta] [pu] [sm] [sma] [xao] [xo] [x1] [x2] [x3]
+[apo] [apto] [bta] [bto] [de] [de2] [dpo] [ds] [ds2] [ds3] [ds4] [fo] [jao] [jo] [jo2] [js] [jxo] [ma] [pa] [pe] [po] [pp] [pt] [pta] [pu] [sm] [sma] [xao] [xo] [x1] [x2] [x3]
 
-![Kirishitan Ligatures Input Strings](https://user-images.githubusercontent.com/5482424/226212725-f4d0745f-b103-4ae6-9cc9-f37cfc5232db.png)
+![Kirishitan Ligatures Input Strings](https://user-images.githubusercontent.com/5482424/226389576-e5393e3a-19ce-4f10-b08b-882a8729d8a2.png)
+
 
 ## Notes on the use 使用上の留意点
 - MS Word does not activate the ligatures by default to keep compatibility with old versions. The image below shows the easiest way to access the ligature options. Anything other than *None* works.
