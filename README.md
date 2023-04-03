@@ -2,7 +2,7 @@
 ![Kirishitan Ligatures top](https://user-images.githubusercontent.com/5482424/225489680-0e14042f-05cb-4441-9ffe-16979bcba7f3.png)
 
 ## Description 概要
-Kirishitan Ligatures is an open source Latin font that contains abbreviated letter ligatures used in Kirishitan Ban print books. It is intended to type the ligatures easily in academic documents and publications. The design is based on Adobe’s Source Han Sans Regular’s Latin, and intended to be used in regular weights of Mincho fonts such as Hiragino Mincho W3, Yu Mincho Medium, and Ryumin R. Each ligature glyph is designed to fit CJK’s square body.
+Kirishitan Ligatures is an open source Latin font that contains abbreviated letter ligatures used in Kirishitan Ban print books. It is intended to type the ligatures easily in academic documents and publications. The design is based on Adobe’s Source Han Sans Regular Latin, and intended to be used in regular weights of Mincho fonts such as Hiragino Mincho W3, Yu Mincho Medium, and Ryumin R. Each ligature glyph is designed to fit CJK’s square body.
 
 Kirishitan Ligaturesはオープンソースの欧文フォントで、キリシタン版に頻出する略字の合字をサポートしています。学術文書や出版物において、これらの合字を簡単に印字できるようにするために作られました。デザインはAdobeの源ノ明朝Regularをベースにしており、類似の太さの明朝体とも合わせやすいような太さにしています（ヒラギノ明朝W3、游明朝Medium、リュウミンRなど）。どの合字も全角ボディに収まるようにデザインされています。
 
