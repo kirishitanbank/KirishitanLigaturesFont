@@ -7,7 +7,7 @@ Kirishitan Ligatures is an open source Latin font that contains abbreviated lett
 Kirishitan Ligaturesはオープンソースの欧文フォントで、キリシタン版に頻出する略字の合字をサポートしています。学術文書や出版物において、これらの合字を簡単に印字できるようにするために作られました。デザインはAdobeの源ノ明朝Regularをベースにしており、類似の太さの明朝体とも合わせやすいような太さにしています（ヒラギノ明朝W3、游明朝Medium、リュウミンRなど）。どの合字も全角ボディに収まるようにデザインされています。
 
 ## How to use 利用方法
-Install the font in your system and choose it in your application of choice. The font will accept the input strings and display the corresponding ligatures automatically (see below image). They are all case-agnostic; [apo can be [APO, [Apo, [aPo and so on. Square brackets before and after the letter string are mandatory. This will make searching the text easier, as well as spotting ligature failures (e.g. fonts not applied).
+Install the font in your system and choose it in your application of choice. The font will accept the input strings and display the corresponding ligatures automatically (see below image). They are all case-agnostic; /apo can be /APO, /Apo, /aPo and so on. A backslash before the letter string is mandatory. This will make searching the text easier, as well as spotting ligature failures (e.g. fonts not applied).
 
 フォントをお使いの機器にインストールし、アプリケーションの文書からフォントを選択します。フォントで以下の画像のようなスラッシュ付きの文字列を入力すると、それに対応する合字記号が表示されます。大文字小文字の区別はありません。/apoは/APO、/Apo、/aPoなど、いずれも受け付けられます。スラッシュがあることで検索が楽になりますし、合字が表示されていない場合に発見しやすくなります。
 
