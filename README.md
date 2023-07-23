@@ -13,7 +13,7 @@ Install the font in your system and choose it in your application of choice. The
 
 /apo /apt /bta /bto /de /de2 /dpo /ds /ds2 /ds3 /ds4 /fo /jao /jo /jo2 /js /jxo /ma /pa /pe /po /pp /pt /pta /pu /sm /sma /xao /xo /x1 /x2 /x3
 
-<img width="544" alt="Kirishitan Ligatures Input Syntax" src="https://github.com/kirishitanbank/KirishitanLigaturesFont/assets/128191928/d03ab830-df03-48e2-a7b1-1d3c1a8ac9bf">
+<img width="1000" alt="Kirishitan Ligatures Input Syntax" src="https://github.com/kirishitanbank/KirishitanLigaturesFont/assets/128191928/d03ab830-df03-48e2-a7b1-1d3c1a8ac9bf">
 
 ## Notes on the use 使用上の留意点
 - MS Word does not activate the ligatures by default to keep compatibility with old versions. The image below shows the easiest way to access the ligature options. Anything other than *None* works.
